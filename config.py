@@ -11,4 +11,4 @@ ROI_Y2 = 1037
 CAMERA_INDEX = 0
 
 # Detection constraints
-PIXEL_THRESHOLD = 30  # Pixel difference threshold to confirm same phone
+PIXEL_THRESHOLD = 200  # Pixel difference threshold to confirm same phone
