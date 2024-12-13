@@ -1,3 +1,4 @@
+# gantry.py
 import RPi.GPIO as GPIO
 import time
 
@@ -47,6 +48,7 @@ class Gantry:
             raise ValueError("Invalid direction specified.")
     
     def moveVertical(self):
+        # Toggle Z direction
         if self.current_z == 0:
             GPIO.output(self.MOTOR_C_DIR_PIN, GPIO.LOW)
             self.current_z = 1
