@@ -45,7 +45,10 @@ Watch our system in action:
 [![Smart Charging Table Demo](https://img.youtube.com/vi/Lx_2xwiEAhM/0.jpg)](https://www.youtube.com/watch?v=Lx_2xwiEAhM)
 
 ## Table Design
-![Smart Charging Table](path/to/your/table_image.png)
+![Smart Charging Table](CAD.jpg)
+
+## Poster
+![AutoChargerX Poster](poster.png)
 
 ## Technologies Used
 - **YOLOv5:** Phone detection and classification.
