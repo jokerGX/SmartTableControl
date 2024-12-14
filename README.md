@@ -40,6 +40,13 @@ The **Smart Charging Table** is a solution to modern charging problems. Place yo
 - **Web App:** [GitHub Repository](https://github.com/jokerGX/Device-DashBoard)
   - Access charging details from any browser.
 
+## Demo Video
+Watch our system in action:
+[![Smart Charging Table Demo](https://img.youtube.com/vi/Lx_2xwiEAhM/0.jpg)](https://www.youtube.com/watch?v=Lx_2xwiEAhM)
+
+## Table Design
+![Smart Charging Table](path/to/your/table_image.png)
+
 ## Technologies Used
 - **YOLOv5:** Phone detection and classification.
 - **Gantry System:** High-precision movement for charging pads.
