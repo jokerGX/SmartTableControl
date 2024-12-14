@@ -61,5 +61,5 @@ Watch our system in action:
 GitHub: [SmartTableControl](https://github.com/jokerGX/SmartTableControl)
 
 ## Contact
-For support, email [your_email@example.com].
+For support, email [yikangc@andrew.cmu.edu].
 
